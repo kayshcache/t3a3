@@ -1,6 +1,7 @@
 File to submit: {Fullname}_T3A3.zip
 Due: Jan 25 by 23:59
 # T3A3: System with Data and Application Layers
+## [Don't miss out on the the professional report!](REPORT.md)
 ### Implement a System with Data and Application Layers
 
 - data layer and application layer, with a very basic presentation layer
